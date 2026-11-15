@@ -15,9 +15,10 @@
 
 ## Visual design and accessibility
 
-- Typography uses **DM Sans** for highly readable interface text and **Lora** for calm, warm page headings.
-- Default body size is 17px on desktop and 16px on small screens, with a clear heading hierarchy and comfortable line spacing; the existing large (18px) and extra-large (20px) accessibility modes remain available.
-- The visual palette uses warm off-white backgrounds, soft sage surfaces, muted forest-green navigation, and gentle teal accents. Wider navigation, more generous page padding, larger cards, comfortable control sizes, and increased spacing reduce visual crowding while preserving readable contrast.
+- Uses a clean **navy blue and white** visual theme.
+- DM Sans provides readable interface typography, while Lora is used for page headings.
+- Spacious layouts, larger cards, comfortable controls, and subtle blue accents improve readability.
+- Accessibility options include large and extra-large text modes.
 
 ## Run locally
 

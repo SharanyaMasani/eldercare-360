@@ -2,6 +2,12 @@
 
 **Proactive Elderly Care & Medication Management Platform** — a React + Vite hackathon demonstration.
 
+## 🌐 Live Demo
+
+**[Open ElderCare 360 – Live Application](https://eldercare360-mnm.netlify.app)**
+
+For the best viewing experience, please open the application on a laptop or desktop.
+
 ## Features
 
 - Health overview dashboard with adherence, vitals, symptoms, mood and appointment summaries.

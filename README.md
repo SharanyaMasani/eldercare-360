@@ -24,19 +24,23 @@
 
 Requirements: Node.js 20.19+ or 22.12+ and npm.
 
-```bash
+Install dependencies:
+
 npm install
+
+Start development server:
+
 npm run dev
-```
 
-Open the local URL printed by Vite (usually `http://localhost:5173`).
+Open the local URL printed by Vite (usually http://localhost:5173).
 
-Production build:
+## Production build
 
-```bash
 npm run build
+
+Preview production build:
+
 npm run preview
-```
 
 ## Deploy to Netlify
 
